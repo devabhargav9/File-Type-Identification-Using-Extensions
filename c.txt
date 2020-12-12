@@ -1,0 +1,17 @@
+Python: oog pil pih pyz pyd pyzw rpy py pyc pyt re pyo pickle ptl pyw pvm egg-info whl ipynb 
+Java:   jmf lax Jsp class jws sap jspa jspx jst Jhtml Page Rmi pna jar Cla ear jax Ijc Access jnilib Ser Properties jnlp policy cod Classpath Appletviewer jad faces java jav form Moc j jml Jvr tzp keystore
+C++ :  mrb dctmp devpk h cxx c++ gch cp rpo 
+C:  m c h hdl 
+Perl: pl pm pod prl ipb perlcriticrc
+Shellscript : sh
+Yacc: y yxx
+Lex: l ll
+Web Development : html css sass scss m4s mht stm htm html5 ger uhtml hhc p3x hhs adiumhtmllog xhtm nclk htmlz chmprj ybhtm xlsmhtml hta war xhtml shtml ttml ssi rhtml shtm mhtm chtml stml moss htms spml htm~ msie xtml ht pih rmh zhtml hsql php4 fhtml qf hhtml fpxml ahtm spm xweb4shtml xweb3htm farrun hhk pgt nhn hks thtml dhtml mhtmlenx htmlenx chw styl
+Golang : go
+Csharp: cs
+Android: pro apk
+DataBase: mdb myd myl frm jrxml sql 
+JavaScript: js json jsc jsxbin izs rjs jsb jsm ejs hbs jsdtscope loaded_0 loaded_1 loaded_2 loaded_3
+RLanguage: r
+Swift: swift
+Php: php phar phtml phps htms phtm gne php5 php4 agp php3 install

@@ -1,0 +1,34 @@
+Text files:
+	sample.txt		Simple text
+Bitmap image files:
+	img1.png		Portable Network Graphic file
+	image.png		Portable Network Graphic file
+	image2.jpeg		JPEG bitmap image format
+	image3.jpg		JPEG bitmap image
+Java files:
+	render.java		Java language source code
+	render.class		Java bytecode class
+Audio and sound files:
+	abcd.zab		Zipped audio book
+	music.mp3		Compressed audio and music file, mp3 songs or ringtones
+Movie video multimedia files:
+	video.3gp		Multimedia files for wireless networks
+Miscellaneous files:
+	.git		Git log file
+Python files:
+	file.py		Python script language source code
+	file.pyc		Compiled Python script source code
+C files:
+	hello.c		C/C++ main source code
+C++ files:
+	hello2.cpp		C++ main source code file format
+	hello3.cxx		C++ main source code file format
+Archive and compressed files:
+	crypt.zip		WinZIP Compressed ZIP archive
+	crypt.7z		7-ZIP compressed 7z archive
+Web development  files:
+	one.html		HyperText Markup Language web page
+	style.css		Cascading Style Sheets
+	style2.sass		Syntactically Awesome Stylesheets indented syntax data
+Unidentified File(s):
+	Abcd.pqrst		The filetype could not be identified
