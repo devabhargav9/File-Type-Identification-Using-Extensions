@@ -24,6 +24,6 @@ Contents:
 	categorizedList.txt : Output is written to this file after each execution
 	sample.txt	: Sample input file with random file names
 
-	scrapper.py	: The script that was used for creating database(For evaluation purpose only)
+	scrapper.py	: The script that was used for creating database
 		
 	
